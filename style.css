@@ -1,0 +1,36 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container {
+   padding: 10px;
+}
+.btn-group {
+    align-items: center;
+    display: flex;
+}
+h1 {
+    padding: 10px;
+    text-align: center;
+    font-size: 70px;
+    font-family: fantasy;
+    color: rebeccapurple;
+}
+.robert {
+    font-size: 50px;
+}
+p {
+    font-size: 40px;
+    font-style: italic;
+}
+.pic {
+    height: 500px;
+    width: 500px;
+}
+i{
+    transition: .3s;
+    }  
+  i:hover{
+    transform: scale(1.1);
+    color: red;
+    }    

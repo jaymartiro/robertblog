@@ -1,0 +1,52 @@
+h1 {
+    padding: 20px;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 5px;
+    color: brown;
+}
+h2 {
+    color: green;
+}
+.roro {
+    text-align: left;
+}
+.roro1 {
+    color: red;
+    text-decoration-line: none;
+}
+.pic {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.pics1{
+    width: 300px;
+    height: 380px;
+    border: 2px solid black;
+  }
+  .p1{
+    font-size: 20px;
+  }
+  .roro2 {
+    color: black;
+  }
+  .roses {
+    color: pink;
+  }
+.hist {
+  color: black;
+  font-size: 20px;
+}
+a {
+  text-decoration: none;
+  padding: 30px;
+}
+i{
+  transition: .3s;
+  }
+  i:hover{
+  transform: scale(1.1);
+  color: red;
+  }
+
